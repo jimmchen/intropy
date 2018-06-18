@@ -1,0 +1,2 @@
+# intropy
+for learning python
